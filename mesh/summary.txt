@@ -1,0 +1,6 @@
+Glorb 2V mesh @ R=152.400 mm (6.0 in)
+vertices=42 faces=80 edges=120
+strut short=83.292 mm (3.2792 in) chord=0.546533 x60
+strut long=94.188 mm (3.7082 in) chord=0.618034 x60
+face type A=20 B=60
+LED order: latitude desc, then longitude

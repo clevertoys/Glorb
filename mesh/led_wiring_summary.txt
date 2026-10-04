@@ -1,0 +1,9 @@
+LED depth: 1.00 in (25.4 mm) inward from facet face
+Chain: neighboring cups only (shared mesh edge)
+MAX HOP: 41.517 mm = 1.6345 in
+Worst hop: wire_index 17->18 (geo_id 31 -> 30)
+Mean hop: 41.216 mm = 1.6227 in
+Lower bound (dual MST max edge): 41.517 mm = 1.6345 in
+Upper bound (longest dual edge): 41.517 mm = 1.6345 in
+Unrestricted chain (may jump): 135.063 mm = 5.3174 in
+Optimal? heuristic (between MST bound and max dual edge)

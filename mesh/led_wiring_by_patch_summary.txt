@@ -1,0 +1,13 @@
+Per-patch chains (inter-patch jumpers allowed separately)
+LED depth: 1.00 in (25.4 mm) inward
+Within patch: exact minimax path; neighbor-only if Hamiltonian, else short jumps
+Worst patch max-hop: 66.189 mm = 2.6059 in
+
+N-lon0: n=11  max=66.189 mm (2.6059 in)  mean=43.679 mm  jumps=1  mode=with-jumps  OPTIMAL
+N-lon1: n= 8  max=41.517 mm (1.6345 in)  mean=41.168 mm  jumps=0  mode=neighbor-only  OPTIMAL
+N-lon2: n=11  max=66.189 mm (2.6059 in)  mean=43.801 mm  jumps=1  mode=with-jumps  OPTIMAL
+N-lon3: n=10  max=41.517 mm (1.6345 in)  mean=41.178 mm  jumps=0  mode=neighbor-only  OPTIMAL
+S-lon0: n=11  max=66.189 mm (2.6059 in)  mean=43.801 mm  jumps=1  mode=with-jumps  OPTIMAL
+S-lon1: n=10  max=41.517 mm (1.6345 in)  mean=41.178 mm  jumps=0  mode=neighbor-only  OPTIMAL
+S-lon2: n=11  max=66.189 mm (2.6059 in)  mean=43.679 mm  jumps=1  mode=with-jumps  OPTIMAL
+S-lon3: n= 8  max=41.517 mm (1.6345 in)  mean=41.168 mm  jumps=0  mode=neighbor-only  OPTIMAL
